@@ -1,18 +1,16 @@
 '''
-Created on 2015Äê10ÔÂ15ÈÕ
+Created on 2015å¹´10æœˆ15æ—¥
 
 @author: admin
 '''
 from xml.sax.handler import ContentHandler
 from xml.sax import parse
 import os
-from sys import prefix
-from test.test_inspect import attrs_wo_objs
-from os import name
-from ast import parse
+
+
 class Dispatcher(object):
     '''
-    ´¦ÀíxmlÉú³ÉwebÒ³
+    å¤„ç†xmlç”Ÿæˆwebé¡µ
     '''
 
 
